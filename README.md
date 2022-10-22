@@ -6,5 +6,7 @@
 
 - Loki **does not index the text of the logs,** instead grouping entries into **streams** and indexing those with **labels.**
 - This is mainly due to cost and performance reasons. Indexing the text of the logs would be very expensive and slow.
-- 
+- Unlike Prometheus, Promtail doesn’t pull logs
+- Prometheus scrapes logs for you
+- Same scrape config with Prometheus can be used promtail, same labels for metrics and logs
 
