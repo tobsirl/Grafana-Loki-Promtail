@@ -4,6 +4,12 @@
 
 [Introduction to Loki: Like Prometheus, but for Logs](https://grafana.com/go/webinar/intro-to-loki-like-prometheus-but-for-logs/)
 
+## What is Loki?
+
+- Loki is an Apache 2.0 licensed log aggregation system inspired by Prometheus. It is designed to be very cost effective and easy to operate. It does not index the contents of the logs, but rather a set of labels for each log stream.
+
+## What is Promtail?
+
 - Loki **does not index the text of the logs,** instead grouping entries into **streams** and indexing those with **labels.**
 - This is mainly due to cost and performance reasons. Indexing the text of the logs would be very expensive and slow.
 - Unlike Prometheus, Promtail doesn’t pull logs
@@ -12,4 +18,3 @@
 - promtail - syslog through TCP
 
 ### Understanding the Loki model
-
