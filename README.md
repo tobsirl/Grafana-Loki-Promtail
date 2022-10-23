@@ -29,5 +29,10 @@
 ![Query](/images/query.PNG)
 
 ## Labels
+
 ![Query](/images/labels.PNG)
 ![Query](/images/loglines.PNG)
+
+## How do I query without an index?
+
+![Query](/images/index.PNG)
