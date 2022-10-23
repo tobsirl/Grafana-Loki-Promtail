@@ -40,3 +40,5 @@
 ## LogQL
 
 ![Query](/images/logql.PNG)
+![Query examples](/images/examples.PNG)
+
