@@ -36,3 +36,7 @@
 ## How do I query without an index?
 
 ![Query](/images/index.PNG)
+
+## LogQL
+
+![Query](/images/logql.PNG)
