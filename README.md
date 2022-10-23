@@ -27,3 +27,6 @@
 ![Streams](/images/streams.PNG)
 ![Chunks](/images/chunks.PNG)
 ![Query](/images/query.PNG)
+
+## Labels
+![Query](/images/labels.PNG)
