@@ -17,4 +17,7 @@
 - Same scrape config with Prometheus can be used promtail, same labels for metrics and logs
 - promtail - syslog through TCP
 
+## How does it work?
+![How does it work](/images/howdoesitwork.PNG)
+
 ### Understanding the Loki model
