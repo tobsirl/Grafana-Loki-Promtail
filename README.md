@@ -41,4 +41,5 @@
 
 ![Query](/images/logql.PNG)
 ![Query examples](/images/examples.PNG)
+![Query examples](/images/metrics.PNG)
 
