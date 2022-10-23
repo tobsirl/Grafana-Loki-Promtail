@@ -26,3 +26,4 @@
 ![Logs](/images/logs.PNG)
 ![Streams](/images/streams.PNG)
 ![Chunks](/images/chunks.PNG)
+![Query](/images/query.PNG)
