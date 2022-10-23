@@ -24,4 +24,5 @@
 ### Understanding the Loki model
 
 ![Logs](/images/logs.PNG)
-![Logs](/images/streams.PNG)
+![Streams](/images/streams.PNG)
+![Chunks](/images/chunks.PNG)
